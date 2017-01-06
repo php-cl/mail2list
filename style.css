@@ -1,0 +1,32 @@
+*{
+	margin: 0px auto;
+}
+
+
+.wrapper-header{
+	background-color: #6a4f93;
+	color: #fff;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+.wrapper-header h3{
+	color: #cdbfe3;
+}
+
+.main{
+	padding-top: 50px;
+}
+
+.footer-wrapper{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #6a4f93;
+	color: #fff;
+}
+
+.footer-wrapper a{
+	color: #fff;
+}
